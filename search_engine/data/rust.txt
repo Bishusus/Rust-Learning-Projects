@@ -1,0 +1,11 @@
+Rust is a systems programming language focused on performance and memory safety.
+
+Rust provides memory safety without requiring a garbage collector. Its ownership system ensures that memory is managed safely.
+
+Rust uses ownership, borrowing, and lifetimes to prevent common programming errors. These features help developers write reliable and efficient applications.
+
+Rust supports concurrency and allows developers to write programs that execute multiple tasks simultaneously.
+
+The Rust compiler detects many errors during compilation. This helps developers catch problems before running their applications.
+
+Rust is useful for command line applications, web servers, operating systems, and other performance-critical software.

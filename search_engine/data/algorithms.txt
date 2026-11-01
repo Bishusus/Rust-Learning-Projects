@@ -1,0 +1,13 @@
+Algorithms are step-by-step procedures used to solve computational problems.
+
+Data structures organize and store information so that algorithms can process it efficiently.
+
+Binary search finds an element in a sorted collection by repeatedly dividing the search space in half.
+
+Hash maps store key-value pairs and provide fast average-case lookups. Hash sets store unique values and support efficient membership checks.
+
+An inverted index maps words to the documents containing them. Search engines use inverted indexes to retrieve relevant documents efficiently.
+
+Sorting algorithms arrange data in a particular order. Common examples include merge sort, quicksort, and insertion sort.
+
+Time complexity describes how an algorithm's running time grows as the input size increases. Space complexity describes how its memory requirements grow.

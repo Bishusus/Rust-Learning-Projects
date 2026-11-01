@@ -1,0 +1,11 @@
+Python is a popular programming language known for its simplicity and readability.
+
+Python is widely used in artificial intelligence, machine learning, data science, and web development.
+
+Python provides automatic memory management through garbage collection. This makes memory management easier for many developers.
+
+Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Developers use Python to build automation scripts, web applications, data analysis tools, and machine learning models.
+
+Python and Rust can work together in applications that require both development speed and high performance.
